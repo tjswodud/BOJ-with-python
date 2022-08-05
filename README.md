@@ -7,3 +7,4 @@
 |단계|내용|Solution|
 |:---:|---|---|
 |01|[입출력과 사칙연산](https://www.acmicpc.net/step/1)|[Link](https://github.com/tjswodud/BOJ-with-python/tree/master/level%201)|
+|02|[조건문](https://www.acmicpc.net/step/4)|[Link](https://github.com/tjswodud/BOJ-with-python/tree/master/level%202)|
