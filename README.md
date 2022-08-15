@@ -12,3 +12,4 @@
 |04|[1차원 배열](https://www.acmicpc.net/step/6)|[Link](https://github.com/tjswodud/BOJ-with-python/tree/master/level%204)|
 |05|[함수](https://www.acmicpc.net/step/5)|[Link](https://github.com/tjswodud/BOJ-with-python/tree/master/level%205)|
 |06|[문자열](https://www.acmicpc.net/step/7)|[Link](https://github.com/tjswodud/BOJ-with-python/tree/master/level%206)|
+|07|[기본 수학 1](https://www.acmicpc.net/step/8)|[Link](https://github.com/tjswodud/BOJ-with-python/tree/master/level%207)|
