@@ -9,6 +9,7 @@ for, while 등의 반복문을 사용해 봅시다.
 |2739|[구구단](https://www.acmicpc.net/problem/2739)|[2739.py](https://github.com/tjswodud/BOJ-with-python/blob/master/level%203/2739.py)|
 |10950|[A+B - 3](https://www.acmicpc.net/problem/10950)|[10950.py](https://github.com/tjswodud/BOJ-with-python/blob/master/level%203/10950.py)|
 |8393|[합](https://www.acmicpc.net/problem/8393)|[8393.py](https://github.com/tjswodud/BOJ-with-python/blob/master/level%203/8393.py)|
+|25304|[영수증](https://www.acmicpc.net/problem/25304)|[25304.py](https://github.com/tjswodud/BOJ-with-python/blob/master/level%203/25304.py)|
 |15552|[빠른 A+B](https://www.acmicpc.net/problem/15552)|[15552.py](https://github.com/tjswodud/BOJ-with-python/blob/master/level%203/15552.py)|
 |2741|[N 찍기](https://www.acmicpc.net/problem/2741)|[2741.py](https://github.com/tjswodud/BOJ-with-python/blob/master/level%203/2741.py)|
 |2742|[기찍 N](https://www.acmicpc.net/problem/2742)|[2742.py](https://github.com/tjswodud/BOJ-with-python/blob/master/level%203/2742.py)|
